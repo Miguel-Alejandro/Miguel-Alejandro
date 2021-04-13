@@ -1,0 +1,151 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+/*class reusable*/
+.font-raleway{
+	font-family: 'Raleway', sans-serif;
+}
+
+.margin-less{
+	margin-top: -47%;
+}
+
+
+
+/*colores personalizados*/
+.transparent{
+	background: rgba(223, 230, 233,0.6);
+}
+
+
+
+body{
+
+	background: #360033;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
+#title{
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	margin-top: 4%;
+}
+
+/*styles of options*/
+#options{
+	background: rgba(223, 230, 233,0.5);
+	width: 9%;
+
+
+	margin-top: 10%;
+	border-radius: 8px;
+	padding: 2%;
+}
+
+#blog{
+	text-align: center;
+}
+
+#blog a{
+	color: black;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+#cita{
+	text-align: center;
+}
+
+#cita a{
+	color: black;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+#contact{
+	text-align: center;
+}
+
+#contact a{
+	color: black;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+
+/*styles of paquetes*/
+#paquetes{
+	float: right;
+	margin-top: -25%;
+
+	background: rgba(223, 230, 233,0.5);
+	width: 10%;
+
+	border-radius: 8px;
+	padding: 2%;
+}
+
+
+#pro{
+	text-align: center;
+}
+
+#pro a{
+	color: black;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+#basico{
+	text-align: center;
+}
+
+#basico a{
+	color: black;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+#soporte{
+	text-align: center;
+}
+
+#soporte a{
+	color: black;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+
+#actualizaciones{
+	text-align: center;
+}
+
+#actualizaciones a{
+	color: black;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+
+/*styles of paquete pro*/
+#card-pro{
+	background: rgba(223, 230, 233,0.7);
+	font-family: 'Raleway', sans-serif;
+	margin-top: -47%;
+	display: none;
+
+}
