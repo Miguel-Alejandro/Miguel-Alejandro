@@ -149,3 +149,48 @@ body{
 	display: none;
 
 }
+
+
+/*styles of paquete basico*/
+#card-basic{
+	margin-top: -52%;
+	background: rgba(223, 230, 233,0.7);
+	display: none;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+#close-basic{
+	width: 3%;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+/*styles of support*/
+#card-support{
+	margin-top: -52%;
+	background: rgba(223, 230, 233,0.7);
+	font-family: 'Raleway', sans-serif;
+	display: none;
+
+}
+
+#close-support{
+	width: 3%;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+/*stiles of updates*/
+#card-update{
+	margin-top: -52%;
+	background: rgba(223, 230, 233,0.7);
+	font-family: 'Raleway', sans-serif;
+	display: none;
+}
+
+
+#close-update{
+	width: 3%;
+	font-family: 'Raleway', sans-serif;
+}
