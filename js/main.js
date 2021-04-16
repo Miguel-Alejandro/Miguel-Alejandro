@@ -6,6 +6,12 @@ $(document).ready(function(){
 //script
 window.addEventListener('load', function(){
 
+	//funciones para welcome
+	const close_welcome = document.querySelector('#close-welcome');
+	close_welcome.addEventListener('click', function(){
+		$('#card-welcome').hide('fade');
+	});
+
 	//funciones del paquete pro
 	const close_pro = document.querySelector('#close-pro');
 	close_pro.addEventListener('click', function(){
@@ -58,6 +64,7 @@ window.addEventListener('load', function(){
 	});
 
 });
+
 
 
 //interacciones de las ventanas

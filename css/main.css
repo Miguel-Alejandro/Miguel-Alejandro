@@ -194,3 +194,18 @@ body{
 	width: 3%;
 	font-family: 'Raleway', sans-serif;
 }
+
+
+
+/*styles of welcome card*/
+#card-welcome{
+	margin-top: -45%;
+	background: rgba(223, 230, 233,0.7);
+	font-family: 'Raleway', sans-serif;
+
+}
+
+#close-welcome{
+	width: 3%;
+	font-family: 'Raleway', sans-serif;
+}
