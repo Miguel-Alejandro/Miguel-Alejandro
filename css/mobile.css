@@ -1,0 +1,29 @@
+
+@media screen and (max-width: 480px) {
+
+
+
+  /* estilos reutilizables */
+  .bg-blanco{
+    background: rgba(223, 230, 233,0.5);
+  }
+
+  .transparent{
+    background: rgba(223, 230, 233,0.7);
+  }
+
+
+
+  /* estilos por elemento */
+	.desktop{
+		display: none;
+	}
+
+  body{
+    background: #2b5876;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+
+}

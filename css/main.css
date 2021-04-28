@@ -3,6 +3,7 @@
 	padding: 0px;
 }
 
+
 /*class reusable*/
 .font-raleway{
 	font-family: 'Raleway', sans-serif;
@@ -27,6 +28,11 @@
 
 .b-radius{
 	border-radius: 8px;
+}
+
+
+.none{
+	display: none;
 }
 
 
@@ -225,4 +231,12 @@ body{
 #close-welcome{
 	width: 3%;
 	font-family: 'Raleway', sans-serif;
+}
+
+
+
+@media screen and (min-width: 1024px){
+	.mobile{
+		display: none;
+	}
 }
