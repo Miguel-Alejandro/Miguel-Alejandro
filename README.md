@@ -2,7 +2,7 @@
 # Hola, Mi nombre es Miguel 👋
 
 
-## 🚀 About Me
+## 🚀 Sobre mi
 Soy Frontend developer Jr utilizando principalmente Angular y Ionic, también he desempeñado el rol de Desarrollador Web con Python y Django.
 
 Profesionalmente he desarrollado aplicaciones web que van desde una plataforma de administración para video consultas y todo el tema de salud en línea hasta dashboards que trabajan con inteligencia artificial para biométricos 
